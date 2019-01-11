@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "description": "",
   "main": "index.js",
-  "author": "",
+  "author": "MSFTserver",
   "license": "ISC",
   "dependencies": {
     "child_process": "^1.0.2",
